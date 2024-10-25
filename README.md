@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @PoojaMirchonia
-- 👀 I’m interested in Designing, frontend and Web development.
-- 🌱 I’m currently learning Web Development
+- ✨ Turning pixels into possibilities
 - 📫 You can reach me via email id -- pmirchonia@gmail.com
 
